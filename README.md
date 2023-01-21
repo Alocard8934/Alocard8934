@@ -1,33 +1,3 @@
-Skip to content
-Search or jump to…
-Pulls
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@Alocard8934 
-Alocard8934
-/
-Yuriy-Chikhonadskiy
-Public
-Cannot fork because you own this repository and are not a member of any organizations.
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-More
-Yuriy-Chikhonadskiy/README.md
-@Alocard8934
-Alocard8934 Update README.md
-Latest commit 3d3973e 4 days ago
- History
- 1 contributor
-36 lines (23 sloc)  3.63 KB
-
 Hi 👋 My name is Yuriy
 ======================
 
