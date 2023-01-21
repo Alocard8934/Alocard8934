@@ -34,18 +34,3 @@ Ich programmiere jetzt seit einem halben Jahr, habe mit HTML und CSS angefangen,
 <a href="http://www.github.com/Alocard8934"><img src="https://github-readme-stats.vercel.app/api?username=Alocard8934&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Alocard8934's GitHub stats" /></a>
 
 <a href="https://github.com/Alocard8934" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alocard8934&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Yuriy-Chikhonadskiy/README.md at main · Alocard8934/Yuriy-Chikhonadskiy 
