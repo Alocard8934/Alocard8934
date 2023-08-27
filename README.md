@@ -13,7 +13,7 @@ Ich programmiere jetzt seit einem halben Jahr, habe mit HTML und CSS angefangen,
 
 
 <p align="left">
-  <a href="https://w7.pngwing.com/pngs/785/145/png-transparent-java-development-kit-software-development-kit-computer-programming-computer-icons-programming-language-icon-text-logo-computer-programming.png" width="36" height="36" alt="Java" /></a>
+<a href=""><img src="https://w7.pngwing.com/pngs/785/145/png-transparent-java-development-kit-software-development-kit-computer-programming-computer-icons-programming-language-icon-text-logo-computer-programming.png" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
