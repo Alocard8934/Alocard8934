@@ -8,7 +8,7 @@ Ich programmiere jetzt seit einem halben Jahr, habe mit HTML und CSS angefangen,
 
 * 🌍  I'm based in Düsseldorf
 * ✉️  You can contact me at [yuriy1989@list.ru](mailto:yuriy1989@list.ru)
-* Mein WebSite <a href=""></a>
+* Mein WebSite <a href="https://lebenslauf-yuriy.netlify.app/"></a>
 
 ### Skills
 
