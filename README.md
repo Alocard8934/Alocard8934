@@ -4,7 +4,7 @@ Hi 👋 My name is Yuriy
 IT Fachinformatiker Anwendungsentwicklung
 -----------------------------------------
 
-Ich programmiere jetzt seit einem halben Jahr, habe mit HTML und CSS angefangen, bin jetzt auf Javascript umgestiegen, dann plane ich React. Bewarb sich um die Ausbildung zum Fachinformatiker Anwendungsentwicklung. Ich plane, in Zukunft eine Stelle in diesem Beruf zu suchen. Schreiben Sie, ich freue mich über alle Nachrichten zu jedem Thema.
+Ich programmiere jetzt seit einem halben Jahr, habe mit HTML und CSS angefangen, bin jetzt auf Java umgestiegen, dann plane ich JavaScript. Bewarb sich um die Ausbildung zum Fachinformatiker Anwendungsentwicklung. Ich plane, in Zukunft eine Stelle in diesem Beruf zu suchen. Schreiben Sie, ich freue mich über alle Nachrichten zu jedem Thema.
 
 * 🌍  I'm based in Düsseldorf
 * ✉️  You can contact me at [yuriy1989@list.ru](mailto:yuriy1989@list.ru)
