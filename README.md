@@ -1,10 +1,10 @@
 Hi 👋 My name is Yuriy
 ======================
 
-IT Fachinformatiker Anwendungsentwicklung
+Java Developer | Web Developer (Java, PostgreSQL, HTML, CSS/SCSS)
 -----------------------------------------
 
-Ich programmiere jetzt seit einem halben Jahr, habe mit HTML und CSS angefangen, bin jetzt auf Java umgestiegen, dann plane ich JavaScript. Bewarb sich um die Ausbildung zum Fachinformatiker Anwendungsentwicklung. Ich plane, in Zukunft eine Stelle in diesem Beruf zu suchen. Schreiben Sie, ich freue mich über alle Nachrichten zu jedem Thema.
+An aspiring Java developer with a strong theoretical background and practical experience working on training and personal projects. I have knowledge of Java SE and SQL. I actively study modern development methodologies and strive to apply my knowledge in practice. I am looking for an opportunity to start my career in a dynamic and innovative company where I can develop as a professional and contribute to the successful implementation of projects.
 
 * 🌍  I'm based in Düsseldorf
 * ✉️  You can contact me at [yuriy1989@list.ru](mailto:yuriy1989@list.ru)
